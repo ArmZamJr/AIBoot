@@ -1,4 +1,1 @@
-# AIBoot
-HOMEWORK
-repitiion is your best friend
-The cat in the hat
+#This is a test. TEST TEST TESTED
